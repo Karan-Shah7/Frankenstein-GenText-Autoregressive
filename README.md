@@ -3,7 +3,7 @@
 > **Student:** Shah Karan Prakash  
 > **Program:** B.Tech in Computer Science and Engineering  
 > **Dataset:** *Frankenstein; Or, The Modern Prometheus* – Project Gutenberg eBook #84  
-> **Repository:** https://github.com/Karan-Shah7/Frankenstein-GenText-Autoregressive-LM
+> **Repository:** https://github.com/Karan-Shah7/Frankenstein-GenText-Autoregressive
 
 ---
 
